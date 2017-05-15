@@ -1,0 +1,9 @@
+{
+  "name": "backbone_app",
+  "version": "0.0.1",
+  "description": "Backbone App",
+  "main": "index.js",
+  "repository": "http://github.com/shintech/backbone_app",
+  "author": "Michael Prather",
+  "license": "MIT"
+}

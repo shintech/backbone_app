@@ -1,6 +1,6 @@
 {
   "name": "backbone_app",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Backbone App",
   "main": "index.js",
   "repository": "http://github.com/shintech/backbone_app",

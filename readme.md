@@ -6,11 +6,12 @@ RootView and App for Backbone + Marionette App
 
 ### Usage
 
-    import App from './backbone_app/index'
+    import App from 'backbone_app'
 
-    const app = new App()
+    \\ instantiate and provide custom title
+    const app = new App({ title: 'Default') 
     
-    const router = new Router({ app: app})
+    const router = new Router({ app: app }) 
     
     app.Router = router
     
